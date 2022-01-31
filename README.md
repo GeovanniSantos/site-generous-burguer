@@ -3,7 +3,7 @@
 
 ## Sobre o projeto
 
-Projeto para colocar em prático todo o aprendizado da base web na matéria Desenvolvimento Web da FATECSP.
+Projeto para colocar em prático todo o aprendizado da base web, na matéria Desenvolvimento Web da FATECSP.
 
 # Tecnologias utilizadas
 ## Back end
